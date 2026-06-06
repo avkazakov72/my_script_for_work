@@ -1,0 +1,11 @@
+sudo qemu-system-x86_64 \
+ -enable-kvm \
+ -m 8G \
+ -cpu host \
+ -smp 2 \
+ -drive file=/dev/sdc,format=raw,if=virtio \
+ -bios /usr/share/ovmf/OVMF.fd \
+ -vga virtio \
+ -nic user \
+ -usb \
+ -device usb-tablet

@@ -1,0 +1,210 @@
+{
+  "version": "6.4.0",
+  "generatedAt": "2026-04-03T20:08:21.479Z",
+  "rootPath": "/home/aleksey/scripts",
+  "recon": null,
+  "fileIndex": {
+    ".gitignore": {
+      "hash": "85bf57b48656485e9d9067ed743438f7fde818993a32f8bd2452feb3ee68856d",
+      "size": 261,
+      "lastScanned": "2026-04-03T20:08:21.474Z"
+    },
+    "README.md": {
+      "hash": "a1b6968a6e2e803674c0d659de9b87cc4e0ea0c91d24d8bc3c533ae4b1857b5f",
+      "size": 86,
+      "lastScanned": "2026-04-03T20:08:21.475Z"
+    },
+    "README.md_20260305_221238.bak": {
+      "hash": "a1b6968a6e2e803674c0d659de9b87cc4e0ea0c91d24d8bc3c533ae4b1857b5f",
+      "size": 86,
+      "lastScanned": "2026-04-03T20:08:21.475Z"
+    },
+    "Test_HDD_sda.sh": {
+      "hash": "abce084d7701c0b66d9bec51fba5da692bef34cb3bbd6eaf35e2880a0a87836a",
+      "size": 1148,
+      "lastScanned": "2026-04-03T20:08:21.475Z"
+    },
+    "backup_file.sh": {
+      "hash": "e847bae710089886329951ea21e02f623216d181015851bc52208f43dc93cece",
+      "size": 1239,
+      "lastScanned": "2026-04-03T20:08:21.475Z"
+    },
+    "disk_monitor_check_disk.sh": {
+      "hash": "3da6a8fff509df7ddbe4c0a0eccf5210ef955eae7b91483c0e2c3098edaebba0",
+      "size": 6596,
+      "lastScanned": "2026-04-03T20:08:21.475Z"
+    },
+    "disk_monitor_quick_check_disks.sh": {
+      "hash": "fe5171e41b8259ce26c75a2f47fd3dfe8d80aed249063daa3c58ec92265c688d",
+      "size": 1080,
+      "lastScanned": "2026-04-03T20:08:21.475Z"
+    },
+    "netbridge_for_VM_Run.sh": {
+      "hash": "161fc22fecc323e56cd24373ae144e7fbc619528c2287ea97b11ebf3fa8adef6",
+      "size": 444,
+      "lastScanned": "2026-04-03T20:08:21.475Z"
+    },
+    "newproject.sh": {
+      "hash": "8b78729732bcfc30f30a073b325b1170ff4fd75f232f3ec6bf9a35ba82f98066",
+      "size": 967,
+      "lastScanned": "2026-04-03T20:08:21.476Z"
+    },
+    "samba_workusers.sh": {
+      "hash": "bd0de545edb63f134d2c4ed4b77d62c4459914d2fd96e702f998d877cfc3453f",
+      "size": 17410,
+      "lastScanned": "2026-04-03T20:08:21.476Z"
+    },
+    "shareStorageOnServer_run.sh": {
+      "hash": "4da2183c176c27af4be6dceb79a6371f591b6b77c88e0a27403545a8711a9618",
+      "size": 9551,
+      "lastScanned": "2026-04-03T20:08:21.476Z"
+    },
+    "vm_Kali_run-2.0.sh": {
+      "hash": "7842ce6afe4e1bc1a0231a1997ba839056a751106a07b3c3fdd298f60ed5009b",
+      "size": 11416,
+      "lastScanned": "2026-04-03T20:08:21.476Z"
+    },
+    "vm_Kali_run-2.0_debag.sh": {
+      "hash": "eca769d6947b541319d71eb90756a447cbc85c3423ce2be6683996b0b982a3f8",
+      "size": 7491,
+      "lastScanned": "2026-04-03T20:08:21.476Z"
+    },
+    "vm_Kali_run-3.0.sh": {
+      "hash": "eca769d6947b541319d71eb90756a447cbc85c3423ce2be6683996b0b982a3f8",
+      "size": 7491,
+      "lastScanned": "2026-04-03T20:08:21.476Z"
+    },
+    "vm_Kali_run-3.0mines.sh": {
+      "hash": "7a691306400c26b16e9a96b96af8da8816e01cff1bb7fe69201515dec5fe1d0d",
+      "size": 1486,
+      "lastScanned": "2026-04-03T20:08:21.476Z"
+    },
+    "vm_Kali_run.sh": {
+      "hash": "38d32fed8a127b9c29d764b5cdb33f024f262f211265bf4469bc43cdd5ae651f",
+      "size": 207,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "vm_Windows10Pro_run.sh": {
+      "hash": "631092d05fe1c5a27d9f5e87391b11c15d590263639376af6387e2b941426beb",
+      "size": 4899,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "disk_monitor/README.md": {
+      "hash": "a73e22fee73f1a3980c84de4f148bdba7cbe35b8a72d26464d90bb7121d812d5",
+      "size": 1898,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "disk_monitor/disk_monitor_check_disk.sh": {
+      "hash": "3da6a8fff509df7ddbe4c0a0eccf5210ef955eae7b91483c0e2c3098edaebba0",
+      "size": 6596,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "disk_monitor/disk_monitor_quick_check_disk.sh": {
+      "hash": "fe5171e41b8259ce26c75a2f47fd3dfe8d80aed249063daa3c58ec92265c688d",
+      "size": 1080,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "netscripts/check_network.sh": {
+      "hash": "70afee4622265472186bc815e084f8a2da63311b886bdadce54b3278d64310d7",
+      "size": 565,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "netscripts/samba_remotedisk_connect.sh": {
+      "hash": "7dc956ab042bba75bb29743998bc536d2bac42094c8cb90b0db3b9c079a3f283",
+      "size": 933,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "netscripts/samba_remotedisk_disconnect.sh": {
+      "hash": "6aa8404ad4b26716830697fb97dfbfaaa846d1b4a0fd49705f4462ca97476257",
+      "size": 188,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "РАЗОБРАТЬ/cheat_cheets.sh": {
+      "hash": "43bccffdab44d2697c30498a450f8347b038eb40adcb14e46b17a059cebb694e",
+      "size": 7648,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "РАЗОБРАТЬ/file_move_in_katalog_ExtName.sh": {
+      "hash": "4986b63ef95e405d0dc5ce7b44015eec793c8e8f881d3c0a1f3757331108638b",
+      "size": 3680,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "РАЗОБРАТЬ/good_files_X.sh": {
+      "hash": "403cfef773eee5e42c4d8c2e7a1ef7dfb52ea395a6cc999a679c7a5cdcc76467",
+      "size": 1038,
+      "lastScanned": "2026-04-03T20:08:21.477Z"
+    },
+    "РАЗОБРАТЬ/picture_sort_good.sh": {
+      "hash": "edd33ac62efc772ac9b7818fa68a916661b72573ef8f1a5c35bf19f76210f6fd",
+      "size": 3342,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/scan_negative.sh": {
+      "hash": "5a84343d94111a4d5abd0bc810a80bc4511d59f12db12ec88f84c740c0076729",
+      "size": 544,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/sorting_files_by_extensions.sh": {
+      "hash": "8220807f363d52f2d06fc1a804a8f56202f4183d18e26e2dc9e568cd0b6bb5e9",
+      "size": 2212,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/video_sort_good.sh": {
+      "hash": "e7a4496a53526eeb5a32d502f93f3b78285306ba7c093849313cd5f2cd56a620",
+      "size": 3535,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/OLD/ARCHIVE.sh": {
+      "hash": "62a662c9e8dccfdf4a73650dd1b6cd24c653603d128d72b7fff83d9c4b82f558",
+      "size": 299,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/OLD/MKDIR.sh": {
+      "hash": "e2de53df1d875d5223f9ca307fddce251b03bf97e10a39b1fa0b6dd8d5900429",
+      "size": 126,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/OLD/PICTURE.sh": {
+      "hash": "29440a12fb36c93c4fddf20760015fee89a2175ce7547b60fb15370b6d2efaee",
+      "size": 313,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/OLD/VIDEO.sh": {
+      "hash": "cadeffc17d16dddcb30350fe73a910c0846c73be4f1e38f027e91008bf6a56dd",
+      "size": 1487,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/OLD/deepseek_bash_20250903_59a4a1.sh": {
+      "hash": "a4352ebf2390624bab2bac1e264a90c604c29d5958f18a3282891ee54ad3b3a3",
+      "size": 1408,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/OLD/move_videos.sh": {
+      "hash": "bf3567ef97e564a253bc78459dbde7be98ae42d4fab13312435535ead9630139",
+      "size": 1127,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/OLD/remove_duplicates.sh": {
+      "hash": "81d09455823d67d4a37c02d626b977d94ce4e95034c7f39dbcd2dc528ef295e6",
+      "size": 3334,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/OLD/remove_duplicatesX.sh": {
+      "hash": "dda7e2574192006908facd3a1933b0c39ad6c2d67ac60cc66c987c65656d1d13",
+      "size": 3733,
+      "lastScanned": "2026-04-03T20:08:21.478Z"
+    },
+    "РАЗОБРАТЬ/OLD/ПРОВЕРКА.sh": {
+      "hash": "0c0ebbaf33258596d7ba01cd61fa231338b417a8684fd248f072c88b3808d0c6",
+      "size": 225,
+      "lastScanned": "2026-04-03T20:08:21.479Z"
+    }
+  },
+  "lastFindings": {},
+  "stats": {
+    "totalFiles": 39,
+    "totalFindings": 0,
+    "lastScore": null,
+    "lastGrade": null
+  }
+}
