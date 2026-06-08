@@ -1,1 +1,0 @@
-find /mnt/DATAINFO/RESCUE_DATA -type f \( -iname "*.zip" -o -iname "*.rar" -o -iname "*.7z" -o -iname "*.tar" -o -iname "*.gz" -o -iname "*.bz2" -o -iname "*.xz" -o -iname "*.tar.gz" -o -iname "*.tar.bz2" -o -iname "*.tar.xz" -o -iname "*.tgz" \) -exec mv -v {} /mnt/DATAINFO/RESCUE_DATA/ARCHIVE/ \;

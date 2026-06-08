@@ -1,1 +1,0 @@
-find /mnt/DATAINFO/RESCUE_DATA -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" -o -iname "*.bmp" -o -iname "*.tiff" -o -iname "*.tif" -o -iname "*.webp" -o -iname "*.svg" -o -iname "*.raw" -o -iname "*.cr2" -o -iname "*.nef" \) -exec mv -v {} /mnt/DATAINFO/RESCUE_DATA/PICTURE/ \;
